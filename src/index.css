@@ -48,7 +48,7 @@ body{
   height:350px;
   width: 290px;
   border-radius:22px;
-  background-color: red !important;
+  background-color: #F8FAFC !important;
   padding: 30px;    
   display: flex;
   flex-direction:column;
