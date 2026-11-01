@@ -7,14 +7,13 @@
 }
 
 html, body {
-    height: 100%;
+    min-height: 100%;
     width: 100%;
 }
 body{
   
-  height: 100%;
-  width:100%;
-  background:#0f172a;
+  min-height: 100%;
+   background:#0f172a;
 }
 
 .heading {
@@ -38,7 +37,7 @@ body{
     min-height: 100vh;
     padding: 40px;
 
-    
+    background: #0f172a;
     display: grid;
     grid-template-columns: repeat(3, 290px);
     justify-content:center;
