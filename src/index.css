@@ -48,17 +48,13 @@ body{
   height:350px;
   width: 290px;
   border-radius:22px;
-  background-color:#F8FAFC;
-  padding: 30px;
-  
-
-   
-   display: flex;
-   flex-direction:column;
-   justify-content: space-between;
-    
-   box-shadow:0 8px 25px rgba(0, 0, 0, 0.15);
-   transition:0.3s ease;
+  background-color: red !important;
+  padding: 30px;    
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;  
+  box-shadow:0 8px 25px rgba(0, 0, 0, 0.15);
+  transition:0.3s ease;
 }
 
 .card:hover{
